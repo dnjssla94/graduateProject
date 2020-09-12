@@ -1,0 +1,2 @@
+TargetObject: 0    PlateText: 텍스트를 읽지 못했습니다.
+TargetObject: 1    PlateText: 0413360
